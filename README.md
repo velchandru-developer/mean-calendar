@@ -16,5 +16,7 @@ Core Features
 ●	A good-looking calendar with an intuitive approach to view events and details
 ●	Admin can view all user details.
 ●	Admin can do CRUD operations on any user meetings.
-●	Secured with URL manipulation.
-●	Multiple hosts can be setup in various browsers
+●	Secured from URL manipulation.
+●	Multiple hosts can be setup in various browsers.
+●	A live notification system from the changes by the admin when the user is online.
+●	An alarm system for reminding user before 1 minute of the meeting when online, the same remainder on email when offline.
